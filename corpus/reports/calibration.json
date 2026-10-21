@@ -1,0 +1,333 @@
+{
+ "collected_at": "2026-10-21",
+ "thresholds": {
+  "MAX_BULLET_SENTENCES": 2,
+  "MAX_KEIGO_SENTENCES": 2,
+  "MAX_UNITS_BEFORE_REQUEST": 2
+ },
+ "all": {
+  "prs": 479,
+  "detector_rate": {
+   "bare_id": 0.09,
+   "keigo_bullet": 0.276,
+   "long_bullet": 0.115,
+   "long_keigo_prose": 0.115,
+   "ref_in_list": 0.088,
+   "request_late": 0.023,
+   "undefined_term": 0.278
+  },
+  "findings_per_pr": 2.35,
+  "bullets": 2677,
+  "bullet_sentences": {
+   "p50": 1,
+   "p90": 2,
+   "p95": 2,
+   "p99": 3,
+   "share_gt1": 0.178,
+   "share_gt2": 0.04,
+   "share_gt3": 0.007
+  },
+  "keigo_bullet_share": 0.235,
+  "paragraphs": 1803,
+  "keigo_per_para": {
+   "p90": 2,
+   "p95": 2,
+   "share_gt2": 0.041
+  },
+  "request_sections": 53,
+  "request_position": {
+   "p50": 0,
+   "p90": 4,
+   "share_gt2": 0.208
+  },
+  "visible_chars": {
+   "p50": 439,
+   "p90": 2100
+  },
+  "uses_details": 0.002,
+  "keigo_savings": {
+   "prs_with_keigo": 381,
+   "per_keigo_sentence": 1.16,
+   "share_of_prose_chars": 0.0094
+  }
+ },
+ "by_era": {
+  "pre": {
+   "prs": 248,
+   "detector_rate": {
+    "bare_id": 0.097,
+    "keigo_bullet": 0.145,
+    "long_bullet": 0.032,
+    "long_keigo_prose": 0.048,
+    "ref_in_list": 0.04,
+    "request_late": 0.032,
+    "undefined_term": 0.133
+   },
+   "findings_per_pr": 0.8,
+   "bullets": 598,
+   "bullet_sentences": {
+    "p50": 1,
+    "p90": 1,
+    "p95": 1,
+    "p99": 3,
+    "share_gt1": 0.045,
+    "share_gt2": 0.013,
+    "share_gt3": 0.003
+   },
+   "keigo_bullet_share": 0.159,
+   "paragraphs": 769,
+   "keigo_per_para": {
+    "p90": 2,
+    "p95": 2,
+    "share_gt2": 0.017
+   },
+   "request_sections": 37,
+   "request_position": {
+    "p50": 0,
+    "p90": 4,
+    "share_gt2": 0.216
+   },
+   "visible_chars": {
+    "p50": 328,
+    "p90": 780
+   },
+   "uses_details": 0.004,
+   "keigo_savings": {
+    "prs_with_keigo": 189,
+    "per_keigo_sentence": 1.18,
+    "share_of_prose_chars": 0.0134
+   }
+  },
+  "post": {
+   "prs": 231,
+   "detector_rate": {
+    "bare_id": 0.082,
+    "keigo_bullet": 0.416,
+    "long_bullet": 0.203,
+    "long_keigo_prose": 0.186,
+    "ref_in_list": 0.139,
+    "request_late": 0.013,
+    "undefined_term": 0.433
+   },
+   "findings_per_pr": 4.02,
+   "bullets": 2079,
+   "bullet_sentences": {
+    "p50": 1,
+    "p90": 2,
+    "p95": 2,
+    "p99": 3,
+    "share_gt1": 0.216,
+    "share_gt2": 0.048,
+    "share_gt3": 0.009
+   },
+   "keigo_bullet_share": 0.257,
+   "paragraphs": 1034,
+   "keigo_per_para": {
+    "p90": 2,
+    "p95": 3,
+    "share_gt2": 0.059
+   },
+   "request_sections": 16,
+   "request_position": {
+    "p50": 0,
+    "p90": 6,
+    "share_gt2": 0.188
+   },
+   "visible_chars": {
+    "p50": 760,
+    "p90": 3170
+   },
+   "uses_details": 0.0,
+   "keigo_savings": {
+    "prs_with_keigo": 192,
+    "per_keigo_sentence": 1.15,
+    "share_of_prose_chars": 0.0084
+   }
+  }
+ },
+ "by_repo": {
+  "EC-CUBE/ec-cube": {
+   "pre_prs": 25,
+   "pre_findings_per_pr": 0.56,
+   "pre_visible_p50": 730,
+   "post_prs": 25,
+   "post_findings_per_pr": 10.36,
+   "post_visible_p50": 2966
+  },
+  "thinkingreed-inc/F-RevoCRM": {
+   "pre_prs": 25,
+   "pre_findings_per_pr": 0.28,
+   "pre_visible_p50": 508,
+   "post_prs": 25,
+   "post_findings_per_pr": 9.6,
+   "post_visible_p50": 2983
+  },
+  "sakura-editor/sakura": {
+   "pre_prs": 25,
+   "pre_findings_per_pr": 2.0,
+   "pre_visible_p50": 400,
+   "post_prs": 25,
+   "post_findings_per_pr": 2.68,
+   "post_visible_p50": 737
+  },
+  "pixiv/charcoal": {
+   "pre_prs": 25,
+   "pre_findings_per_pr": 0.44,
+   "pre_visible_p50": 224,
+   "post_prs": 25,
+   "post_findings_per_pr": 0.92,
+   "post_visible_p50": 328
+  },
+  "zenn-dev/zenn-editor": {
+   "pre_prs": 25,
+   "pre_findings_per_pr": 0.32,
+   "pre_visible_p50": 363,
+   "post_prs": 25,
+   "post_findings_per_pr": 6.36,
+   "post_visible_p50": 937
+  },
+  "VOICEVOX/voicevox": {
+   "pre_prs": 25,
+   "pre_findings_per_pr": 0.4,
+   "pre_visible_p50": 302,
+   "post_prs": 25,
+   "post_findings_per_pr": 1.48,
+   "post_visible_p50": 271
+  },
+  "VOICEVOX/voicevox_engine": {
+   "pre_prs": 25,
+   "pre_findings_per_pr": 0.2,
+   "pre_visible_p50": 245,
+   "post_prs": 25,
+   "post_findings_per_pr": 0.96,
+   "post_visible_p50": 372
+  },
+  "vivliostyle/vfm": {
+   "pre_prs": 23,
+   "pre_findings_per_pr": 1.35,
+   "pre_visible_p50": 232,
+   "post_prs": 25,
+   "post_findings_per_pr": 3.8,
+   "post_visible_p50": 468
+  },
+  "kmuto/review": {
+   "pre_prs": 25,
+   "pre_findings_per_pr": 1.48,
+   "pre_visible_p50": 238,
+   "post_prs": 6,
+   "post_findings_per_pr": 0.67,
+   "post_visible_p50": 250
+  },
+  "kufu/smarthr-ui": {
+   "pre_prs": 25,
+   "pre_findings_per_pr": 1.04,
+   "pre_visible_p50": 244,
+   "post_prs": 25,
+   "post_findings_per_pr": 0.8,
+   "post_visible_p50": 938
+  }
+ },
+ "paired_sign_test": {
+  "findings_per_pr": {
+   "increased": 8,
+   "n": 10,
+   "p_two_sided": 0.1094
+  },
+  "visible_p50": {
+   "increased": 9,
+   "n": 10,
+   "p_two_sided": 0.0215
+  }
+ },
+ "precision": {
+  "dev": {
+   "bare_id": {
+    "TP": 8,
+    "FP": 12,
+    "UNSURE": 0,
+    "precision": 0.4
+   },
+   "keigo_bullet": {
+    "TP": 18,
+    "FP": 2,
+    "UNSURE": 0,
+    "precision": 0.9
+   },
+   "long_bullet": {
+    "TP": 20,
+    "FP": 0,
+    "UNSURE": 0,
+    "precision": 1.0
+   },
+   "long_keigo_prose": {
+    "TP": 18,
+    "FP": 2,
+    "UNSURE": 0,
+    "precision": 0.9
+   },
+   "ref_in_list": {
+    "TP": 20,
+    "FP": 0,
+    "UNSURE": 0,
+    "precision": 1.0
+   },
+   "request_late": {
+    "TP": 6,
+    "FP": 8,
+    "UNSURE": 0,
+    "precision": 0.43
+   },
+   "undefined_term": {
+    "TP": 0,
+    "FP": 20,
+    "UNSURE": 0,
+    "precision": 0.0
+   }
+  },
+  "test": {
+   "bare_id": {
+    "TP": 6,
+    "FP": 14,
+    "UNSURE": 0,
+    "precision": 0.3
+   },
+   "keigo_bullet": {
+    "TP": 20,
+    "FP": 0,
+    "UNSURE": 0,
+    "precision": 1.0
+   },
+   "long_bullet": {
+    "TP": 19,
+    "FP": 1,
+    "UNSURE": 0,
+    "precision": 0.95
+   },
+   "long_keigo_prose": {
+    "TP": 19,
+    "FP": 1,
+    "UNSURE": 0,
+    "precision": 0.95
+   },
+   "ref_in_list": {
+    "TP": 16,
+    "FP": 4,
+    "UNSURE": 0,
+    "precision": 0.8
+   },
+   "request_late": {
+    "TP": 4,
+    "FP": 1,
+    "UNSURE": 1,
+    "precision": 0.8
+   }
+  }
+ },
+ "expanded_titles": {
+  "mid_list_refs": 68,
+  "resolved": 68,
+  "p50": 32,
+  "p90": 65,
+  "max": 77
+ }
+}

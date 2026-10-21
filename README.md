@@ -33,22 +33,24 @@ python3 skills/natural-pr-issue-japanese/scripts/prlint.py BODY.md
 gh pr view 12 --json body -q .body | python3 skills/natural-pr-issue-japanese/scripts/prlint.py -
 ```
 
-| 検出器 | 規則 | 見ているもの |
-|---|---|---|
-| `summary_problem_only` | 1 | 概要の番号付きの項目に、対応の方向が書かれていない |
-| `ref_in_list` | 3 | 箇条書きの途中に `#N` や PR・Issue の URL がある |
-| `preview_heading_mismatch` | 4 | 概要の項目と、詳細の見出しの文言が違う |
-| `long_bullet` | 5 | 3 文以上ある箇条 |
-| `request_late` | 6 | 節の頭から 3 つ目以降に、頼みごとがある |
-| `keigo_bullet` | 7 | 敬体の箇条 |
-| `long_keigo_prose` | 7 | 内容を敬体で 3 文以上書いた段落 |
-| `details_syntax` | 8 | `<details>` の中の空行が足りない |
-| `bare_id`（`--all`） | 2 | ID や `#N` の中身の説明が、本文のどこにも無い |
-| `undefined_term`（`--all`） | 4 | 略語の初出に説明が無い |
+| 検出器 | 規則 | 見ているもの | 精度 |
+|---|---|---|---|
+| `summary_problem_only` | 1 | 概要の番号付きの項目に、対応の方向が書かれていない | 未測定 |
+| `ref_in_list` | 3 | 箇条書きの途中に `#N` や PR・Issue の URL がある | 80% |
+| `preview_heading_mismatch` | 4 | 概要の項目と、詳細の見出しの文言が違う | 未測定 |
+| `long_bullet` | 5 | 3 文以上ある箇条 | 95% |
+| `request_late` | 6 | 節の頭から 3 つ目以降に、頼みごとがある | 80%（5 件） |
+| `keigo_bullet` | 7 | 敬体の箇条 | 100% |
+| `long_keigo_prose` | 7 | 内容を敬体で 3 文以上書いた段落 | 95% |
+| `details_syntax` | 8 | `<details>` の中の空行が足りない | 未測定 |
+| `bare_id`（`--all`） | 2 | ID や `#N` の中身の説明が、本文のどこにも無い | 30% |
+| `undefined_term`（`--all`） | 4 | 略語の初出に説明が無い | 0%（修正前） |
 
-`bare_id` と `undefined_term` は誤検知が多いので、`--all` を付けたときだけ出します。
+精度は、公開 OSS の PR で検出した箇所を、検出器ごとに最大 20 件ずつ AI の判定者が判定した値です（判定に使っていない標本で測った値。未測定はコーパスで検出が無かったもの）。精度の低い 2 つは、`--all` を付けたときだけ出します。
 
 ほかに、`<details>` で畳んだ部分を除いた「見えている字数」も出します。検出は疑いの提示で、直すかどうかは文脈で判断します。
+
+閾値と精度は、公開 OSS の日本語の PR 479 本で測りました（[corpus/](corpus/README.md)）。
 
 回帰テストは `python3 -m unittest discover tests` で実行できます。
 

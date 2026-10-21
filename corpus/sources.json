@@ -1,0 +1,3370 @@
+{
+ "collected_at": "2026-10-21",
+ "criteria": {
+  "state": "merged",
+  "eras": {
+   "pre": "created:<2022-11-01",
+   "post": "created:>=2025-01-01"
+  },
+  "per_repo_era": 25,
+  "min_chars": 150,
+  "min_jp_chars": 60,
+  "min_jp_ratio": 0.3,
+  "exclude": "bot の PR"
+ },
+ "prs": [
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5848,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5848",
+   "era": "pre",
+   "created_at": "2022-10-26T00:28:41Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5845,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5845",
+   "era": "pre",
+   "created_at": "2022-10-19T03:50:20Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5843,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5843",
+   "era": "pre",
+   "created_at": "2022-10-18T09:13:44Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5839,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5839",
+   "era": "pre",
+   "created_at": "2022-10-14T07:23:11Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5837,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5837",
+   "era": "pre",
+   "created_at": "2022-10-11T00:39:22Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5835,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5835",
+   "era": "pre",
+   "created_at": "2022-10-05T15:57:17Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5833,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5833",
+   "era": "pre",
+   "created_at": "2022-09-30T03:06:42Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5832,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5832",
+   "era": "pre",
+   "created_at": "2022-09-29T10:07:40Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5826,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5826",
+   "era": "pre",
+   "created_at": "2022-09-27T09:49:28Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5825,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5825",
+   "era": "pre",
+   "created_at": "2022-09-27T08:16:40Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5824,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5824",
+   "era": "pre",
+   "created_at": "2022-09-27T08:12:26Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5822,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5822",
+   "era": "pre",
+   "created_at": "2022-09-26T05:40:45Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5811,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5811",
+   "era": "pre",
+   "created_at": "2022-09-19T23:10:59Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5809,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5809",
+   "era": "pre",
+   "created_at": "2022-09-16T08:27:26Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5807,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5807",
+   "era": "pre",
+   "created_at": "2022-09-16T04:27:52Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5802,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5802",
+   "era": "pre",
+   "created_at": "2022-09-15T09:51:26Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5801,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5801",
+   "era": "pre",
+   "created_at": "2022-09-15T08:27:42Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5800,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5800",
+   "era": "pre",
+   "created_at": "2022-09-15T05:45:44Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5799,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5799",
+   "era": "pre",
+   "created_at": "2022-09-15T02:10:54Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5797,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5797",
+   "era": "pre",
+   "created_at": "2022-09-15T01:45:13Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5796,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5796",
+   "era": "pre",
+   "created_at": "2022-09-15T01:24:48Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5794,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5794",
+   "era": "pre",
+   "created_at": "2022-09-14T07:15:04Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5793,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5793",
+   "era": "pre",
+   "created_at": "2022-09-14T05:59:32Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5788,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5788",
+   "era": "pre",
+   "created_at": "2022-09-13T11:36:45Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 5785,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/5785",
+   "era": "pre",
+   "created_at": "2022-09-12T09:18:47Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7207,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7207",
+   "era": "post",
+   "created_at": "2026-10-02T05:54:34Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7189,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7189",
+   "era": "post",
+   "created_at": "2026-09-28T05:40:41Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7188,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7188",
+   "era": "post",
+   "created_at": "2026-09-28T05:07:16Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7184,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7184",
+   "era": "post",
+   "created_at": "2026-09-25T08:34:42Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7181,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7181",
+   "era": "post",
+   "created_at": "2026-09-25T07:11:16Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7178,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7178",
+   "era": "post",
+   "created_at": "2026-09-24T08:40:19Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7162,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7162",
+   "era": "post",
+   "created_at": "2026-09-18T08:23:02Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7154,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7154",
+   "era": "post",
+   "created_at": "2026-09-16T07:04:15Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7153,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7153",
+   "era": "post",
+   "created_at": "2026-09-16T04:07:33Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7152,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7152",
+   "era": "post",
+   "created_at": "2026-09-16T02:41:49Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7151,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7151",
+   "era": "post",
+   "created_at": "2026-09-16T02:20:39Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7147,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7147",
+   "era": "post",
+   "created_at": "2026-09-15T09:36:36Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7146,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7146",
+   "era": "post",
+   "created_at": "2026-09-15T02:19:54Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7145,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7145",
+   "era": "post",
+   "created_at": "2026-09-14T22:13:11Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7144,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7144",
+   "era": "post",
+   "created_at": "2026-09-14T08:36:53Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7127,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7127",
+   "era": "post",
+   "created_at": "2026-09-12T05:20:23Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7124,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7124",
+   "era": "post",
+   "created_at": "2026-09-10T07:44:28Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7123,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7123",
+   "era": "post",
+   "created_at": "2026-09-10T07:07:30Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7121,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7121",
+   "era": "post",
+   "created_at": "2026-09-09T06:57:22Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7120,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7120",
+   "era": "post",
+   "created_at": "2026-09-09T06:17:35Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7119,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7119",
+   "era": "post",
+   "created_at": "2026-09-09T02:31:36Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7117,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7117",
+   "era": "post",
+   "created_at": "2026-09-08T08:41:54Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7115,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7115",
+   "era": "post",
+   "created_at": "2026-09-08T05:43:18Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7114,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7114",
+   "era": "post",
+   "created_at": "2026-09-07T21:28:54Z"
+  },
+  {
+   "repo": "EC-CUBE/ec-cube",
+   "number": 7105,
+   "url": "https://github.com/EC-CUBE/ec-cube/pull/7105",
+   "era": "post",
+   "created_at": "2026-09-04T04:19:09Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 674,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/674",
+   "era": "pre",
+   "created_at": "2022-10-31T09:34:04Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 672,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/672",
+   "era": "pre",
+   "created_at": "2022-10-31T04:01:44Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 671,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/671",
+   "era": "pre",
+   "created_at": "2022-10-28T09:44:31Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 669,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/669",
+   "era": "pre",
+   "created_at": "2022-10-24T09:22:13Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 668,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/668",
+   "era": "pre",
+   "created_at": "2022-10-20T04:54:49Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 661,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/661",
+   "era": "pre",
+   "created_at": "2022-10-15T03:55:34Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 660,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/660",
+   "era": "pre",
+   "created_at": "2022-10-13T06:36:32Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 659,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/659",
+   "era": "pre",
+   "created_at": "2022-10-07T01:01:53Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 657,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/657",
+   "era": "pre",
+   "created_at": "2022-10-05T10:11:33Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 654,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/654",
+   "era": "pre",
+   "created_at": "2022-10-03T08:55:27Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 643,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/643",
+   "era": "pre",
+   "created_at": "2022-09-21T09:19:48Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 641,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/641",
+   "era": "pre",
+   "created_at": "2022-09-20T05:59:04Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 640,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/640",
+   "era": "pre",
+   "created_at": "2022-09-20T05:40:48Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 638,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/638",
+   "era": "pre",
+   "created_at": "2022-09-15T07:36:36Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 627,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/627",
+   "era": "pre",
+   "created_at": "2022-08-31T08:31:12Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 626,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/626",
+   "era": "pre",
+   "created_at": "2022-08-31T06:29:49Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 624,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/624",
+   "era": "pre",
+   "created_at": "2022-08-31T02:41:10Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 623,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/623",
+   "era": "pre",
+   "created_at": "2022-08-30T02:00:14Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 619,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/619",
+   "era": "pre",
+   "created_at": "2022-08-25T02:12:09Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 618,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/618",
+   "era": "pre",
+   "created_at": "2022-08-24T06:43:34Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 617,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/617",
+   "era": "pre",
+   "created_at": "2022-08-24T06:42:46Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 612,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/612",
+   "era": "pre",
+   "created_at": "2022-08-17T05:30:58Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 611,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/611",
+   "era": "pre",
+   "created_at": "2022-08-16T06:21:31Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 608,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/608",
+   "era": "pre",
+   "created_at": "2022-08-12T07:05:12Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 605,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/605",
+   "era": "pre",
+   "created_at": "2022-08-08T05:26:12Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1918,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1918",
+   "era": "post",
+   "created_at": "2026-10-16T06:14:17Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1916,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1916",
+   "era": "post",
+   "created_at": "2026-10-16T04:50:30Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1915,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1915",
+   "era": "post",
+   "created_at": "2026-10-16T04:50:28Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1911,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1911",
+   "era": "post",
+   "created_at": "2026-10-14T07:33:11Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1909,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1909",
+   "era": "post",
+   "created_at": "2026-10-14T06:11:35Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1890,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1890",
+   "era": "post",
+   "created_at": "2026-10-08T05:39:14Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1882,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1882",
+   "era": "post",
+   "created_at": "2026-10-02T08:16:52Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1881,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1881",
+   "era": "post",
+   "created_at": "2026-10-02T05:23:34Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1880,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1880",
+   "era": "post",
+   "created_at": "2026-10-02T01:30:55Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1879,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1879",
+   "era": "post",
+   "created_at": "2026-10-02T01:28:32Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1876,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1876",
+   "era": "post",
+   "created_at": "2026-10-01T09:13:54Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1875,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1875",
+   "era": "post",
+   "created_at": "2026-10-01T07:03:24Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1872,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1872",
+   "era": "post",
+   "created_at": "2026-10-01T04:23:08Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1871,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1871",
+   "era": "post",
+   "created_at": "2026-09-30T04:13:43Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1870,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1870",
+   "era": "post",
+   "created_at": "2026-09-29T07:06:44Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1869,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1869",
+   "era": "post",
+   "created_at": "2026-09-29T07:04:24Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1867,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1867",
+   "era": "post",
+   "created_at": "2026-09-29T05:02:21Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1863,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1863",
+   "era": "post",
+   "created_at": "2026-09-28T07:24:59Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1860,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1860",
+   "era": "post",
+   "created_at": "2026-09-25T04:24:53Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1858,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1858",
+   "era": "post",
+   "created_at": "2026-09-18T09:02:00Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1856,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1856",
+   "era": "post",
+   "created_at": "2026-09-18T02:00:02Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1853,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1853",
+   "era": "post",
+   "created_at": "2026-09-17T10:20:32Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1851,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1851",
+   "era": "post",
+   "created_at": "2026-09-17T07:07:09Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1840,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1840",
+   "era": "post",
+   "created_at": "2026-09-07T08:04:08Z"
+  },
+  {
+   "repo": "thinkingreed-inc/F-RevoCRM",
+   "number": 1833,
+   "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1833",
+   "era": "post",
+   "created_at": "2026-08-31T07:43:25Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1866,
+   "url": "https://github.com/sakura-editor/sakura/pull/1866",
+   "era": "pre",
+   "created_at": "2022-10-02T16:27:51Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1865,
+   "url": "https://github.com/sakura-editor/sakura/pull/1865",
+   "era": "pre",
+   "created_at": "2022-09-10T08:51:26Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1864,
+   "url": "https://github.com/sakura-editor/sakura/pull/1864",
+   "era": "pre",
+   "created_at": "2022-09-10T08:48:23Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1858,
+   "url": "https://github.com/sakura-editor/sakura/pull/1858",
+   "era": "pre",
+   "created_at": "2022-06-19T23:43:17Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1857,
+   "url": "https://github.com/sakura-editor/sakura/pull/1857",
+   "era": "pre",
+   "created_at": "2022-06-14T10:01:53Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1856,
+   "url": "https://github.com/sakura-editor/sakura/pull/1856",
+   "era": "pre",
+   "created_at": "2022-06-12T15:15:14Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1855,
+   "url": "https://github.com/sakura-editor/sakura/pull/1855",
+   "era": "pre",
+   "created_at": "2022-06-12T10:25:39Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1854,
+   "url": "https://github.com/sakura-editor/sakura/pull/1854",
+   "era": "pre",
+   "created_at": "2022-06-12T10:14:39Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1853,
+   "url": "https://github.com/sakura-editor/sakura/pull/1853",
+   "era": "pre",
+   "created_at": "2022-06-11T13:39:43Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1850,
+   "url": "https://github.com/sakura-editor/sakura/pull/1850",
+   "era": "pre",
+   "created_at": "2022-06-01T23:16:31Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1847,
+   "url": "https://github.com/sakura-editor/sakura/pull/1847",
+   "era": "pre",
+   "created_at": "2022-05-28T12:20:21Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1846,
+   "url": "https://github.com/sakura-editor/sakura/pull/1846",
+   "era": "pre",
+   "created_at": "2022-05-28T12:13:01Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1843,
+   "url": "https://github.com/sakura-editor/sakura/pull/1843",
+   "era": "pre",
+   "created_at": "2022-05-08T05:42:16Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1842,
+   "url": "https://github.com/sakura-editor/sakura/pull/1842",
+   "era": "pre",
+   "created_at": "2022-05-07T13:39:11Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1841,
+   "url": "https://github.com/sakura-editor/sakura/pull/1841",
+   "era": "pre",
+   "created_at": "2022-05-05T09:04:17Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1840,
+   "url": "https://github.com/sakura-editor/sakura/pull/1840",
+   "era": "pre",
+   "created_at": "2022-05-05T08:57:48Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1839,
+   "url": "https://github.com/sakura-editor/sakura/pull/1839",
+   "era": "pre",
+   "created_at": "2022-05-03T07:39:52Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1838,
+   "url": "https://github.com/sakura-editor/sakura/pull/1838",
+   "era": "pre",
+   "created_at": "2022-05-03T07:00:16Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1837,
+   "url": "https://github.com/sakura-editor/sakura/pull/1837",
+   "era": "pre",
+   "created_at": "2022-05-03T06:52:57Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1836,
+   "url": "https://github.com/sakura-editor/sakura/pull/1836",
+   "era": "pre",
+   "created_at": "2022-05-03T06:50:06Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1835,
+   "url": "https://github.com/sakura-editor/sakura/pull/1835",
+   "era": "pre",
+   "created_at": "2022-05-03T06:44:18Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1834,
+   "url": "https://github.com/sakura-editor/sakura/pull/1834",
+   "era": "pre",
+   "created_at": "2022-05-03T06:41:52Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1833,
+   "url": "https://github.com/sakura-editor/sakura/pull/1833",
+   "era": "pre",
+   "created_at": "2022-05-03T04:34:16Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1830,
+   "url": "https://github.com/sakura-editor/sakura/pull/1830",
+   "era": "pre",
+   "created_at": "2022-05-01T05:20:33Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 1829,
+   "url": "https://github.com/sakura-editor/sakura/pull/1829",
+   "era": "pre",
+   "created_at": "2022-04-17T05:57:38Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2756,
+   "url": "https://github.com/sakura-editor/sakura/pull/2756",
+   "era": "post",
+   "created_at": "2026-10-19T02:08:38Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2755,
+   "url": "https://github.com/sakura-editor/sakura/pull/2755",
+   "era": "post",
+   "created_at": "2026-10-19T02:01:08Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2752,
+   "url": "https://github.com/sakura-editor/sakura/pull/2752",
+   "era": "post",
+   "created_at": "2026-10-18T09:31:48Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2751,
+   "url": "https://github.com/sakura-editor/sakura/pull/2751",
+   "era": "post",
+   "created_at": "2026-10-18T05:47:30Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2750,
+   "url": "https://github.com/sakura-editor/sakura/pull/2750",
+   "era": "post",
+   "created_at": "2026-10-17T10:50:16Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2747,
+   "url": "https://github.com/sakura-editor/sakura/pull/2747",
+   "era": "post",
+   "created_at": "2026-10-17T08:07:40Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2740,
+   "url": "https://github.com/sakura-editor/sakura/pull/2740",
+   "era": "post",
+   "created_at": "2026-10-16T11:15:24Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2739,
+   "url": "https://github.com/sakura-editor/sakura/pull/2739",
+   "era": "post",
+   "created_at": "2026-10-16T00:15:47Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2737,
+   "url": "https://github.com/sakura-editor/sakura/pull/2737",
+   "era": "post",
+   "created_at": "2026-10-14T05:00:22Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2736,
+   "url": "https://github.com/sakura-editor/sakura/pull/2736",
+   "era": "post",
+   "created_at": "2026-10-14T01:39:55Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2730,
+   "url": "https://github.com/sakura-editor/sakura/pull/2730",
+   "era": "post",
+   "created_at": "2026-10-10T14:05:53Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2728,
+   "url": "https://github.com/sakura-editor/sakura/pull/2728",
+   "era": "post",
+   "created_at": "2026-10-09T09:59:20Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2726,
+   "url": "https://github.com/sakura-editor/sakura/pull/2726",
+   "era": "post",
+   "created_at": "2026-10-09T06:41:23Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2725,
+   "url": "https://github.com/sakura-editor/sakura/pull/2725",
+   "era": "post",
+   "created_at": "2026-10-09T00:23:46Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2723,
+   "url": "https://github.com/sakura-editor/sakura/pull/2723",
+   "era": "post",
+   "created_at": "2026-10-07T07:49:23Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2721,
+   "url": "https://github.com/sakura-editor/sakura/pull/2721",
+   "era": "post",
+   "created_at": "2026-10-06T10:38:32Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2720,
+   "url": "https://github.com/sakura-editor/sakura/pull/2720",
+   "era": "post",
+   "created_at": "2026-10-06T10:33:34Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2719,
+   "url": "https://github.com/sakura-editor/sakura/pull/2719",
+   "era": "post",
+   "created_at": "2026-10-06T01:34:13Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2718,
+   "url": "https://github.com/sakura-editor/sakura/pull/2718",
+   "era": "post",
+   "created_at": "2026-10-05T23:55:49Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2717,
+   "url": "https://github.com/sakura-editor/sakura/pull/2717",
+   "era": "post",
+   "created_at": "2026-10-05T23:45:21Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2716,
+   "url": "https://github.com/sakura-editor/sakura/pull/2716",
+   "era": "post",
+   "created_at": "2026-10-05T11:14:48Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2711,
+   "url": "https://github.com/sakura-editor/sakura/pull/2711",
+   "era": "post",
+   "created_at": "2026-10-05T06:37:10Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2710,
+   "url": "https://github.com/sakura-editor/sakura/pull/2710",
+   "era": "post",
+   "created_at": "2026-10-05T03:07:40Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2706,
+   "url": "https://github.com/sakura-editor/sakura/pull/2706",
+   "era": "post",
+   "created_at": "2026-10-04T15:11:18Z"
+  },
+  {
+   "repo": "sakura-editor/sakura",
+   "number": 2703,
+   "url": "https://github.com/sakura-editor/sakura/pull/2703",
+   "era": "post",
+   "created_at": "2026-10-04T07:51:46Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 140,
+   "url": "https://github.com/pixiv/charcoal/pull/140",
+   "era": "pre",
+   "created_at": "2022-10-31T07:45:13Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 134,
+   "url": "https://github.com/pixiv/charcoal/pull/134",
+   "era": "pre",
+   "created_at": "2022-10-27T12:17:04Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 133,
+   "url": "https://github.com/pixiv/charcoal/pull/133",
+   "era": "pre",
+   "created_at": "2022-10-27T09:34:09Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 131,
+   "url": "https://github.com/pixiv/charcoal/pull/131",
+   "era": "pre",
+   "created_at": "2022-10-27T02:32:05Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 129,
+   "url": "https://github.com/pixiv/charcoal/pull/129",
+   "era": "pre",
+   "created_at": "2022-10-27T01:51:50Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 128,
+   "url": "https://github.com/pixiv/charcoal/pull/128",
+   "era": "pre",
+   "created_at": "2022-10-20T10:34:22Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 127,
+   "url": "https://github.com/pixiv/charcoal/pull/127",
+   "era": "pre",
+   "created_at": "2022-10-20T10:02:00Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 125,
+   "url": "https://github.com/pixiv/charcoal/pull/125",
+   "era": "pre",
+   "created_at": "2022-10-20T09:07:08Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 124,
+   "url": "https://github.com/pixiv/charcoal/pull/124",
+   "era": "pre",
+   "created_at": "2022-10-20T07:24:37Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 119,
+   "url": "https://github.com/pixiv/charcoal/pull/119",
+   "era": "pre",
+   "created_at": "2022-09-15T13:29:06Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 118,
+   "url": "https://github.com/pixiv/charcoal/pull/118",
+   "era": "pre",
+   "created_at": "2022-09-06T07:50:11Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 114,
+   "url": "https://github.com/pixiv/charcoal/pull/114",
+   "era": "pre",
+   "created_at": "2022-09-02T09:01:46Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 113,
+   "url": "https://github.com/pixiv/charcoal/pull/113",
+   "era": "pre",
+   "created_at": "2022-08-29T13:58:09Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 112,
+   "url": "https://github.com/pixiv/charcoal/pull/112",
+   "era": "pre",
+   "created_at": "2022-08-24T14:51:17Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 111,
+   "url": "https://github.com/pixiv/charcoal/pull/111",
+   "era": "pre",
+   "created_at": "2022-08-19T14:30:23Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 110,
+   "url": "https://github.com/pixiv/charcoal/pull/110",
+   "era": "pre",
+   "created_at": "2022-08-18T15:18:03Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 109,
+   "url": "https://github.com/pixiv/charcoal/pull/109",
+   "era": "pre",
+   "created_at": "2022-08-18T14:54:20Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 108,
+   "url": "https://github.com/pixiv/charcoal/pull/108",
+   "era": "pre",
+   "created_at": "2022-08-18T14:51:13Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 104,
+   "url": "https://github.com/pixiv/charcoal/pull/104",
+   "era": "pre",
+   "created_at": "2022-08-16T01:06:49Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 99,
+   "url": "https://github.com/pixiv/charcoal/pull/99",
+   "era": "pre",
+   "created_at": "2022-08-02T03:00:23Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 98,
+   "url": "https://github.com/pixiv/charcoal/pull/98",
+   "era": "pre",
+   "created_at": "2022-07-29T09:17:25Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 90,
+   "url": "https://github.com/pixiv/charcoal/pull/90",
+   "era": "pre",
+   "created_at": "2022-07-22T01:11:34Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 89,
+   "url": "https://github.com/pixiv/charcoal/pull/89",
+   "era": "pre",
+   "created_at": "2022-07-21T01:21:47Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 88,
+   "url": "https://github.com/pixiv/charcoal/pull/88",
+   "era": "pre",
+   "created_at": "2022-07-20T07:06:28Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 84,
+   "url": "https://github.com/pixiv/charcoal/pull/84",
+   "era": "pre",
+   "created_at": "2022-07-19T02:16:11Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1108,
+   "url": "https://github.com/pixiv/charcoal/pull/1108",
+   "era": "post",
+   "created_at": "2026-10-14T02:15:45Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1107,
+   "url": "https://github.com/pixiv/charcoal/pull/1107",
+   "era": "post",
+   "created_at": "2026-10-09T08:30:42Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1106,
+   "url": "https://github.com/pixiv/charcoal/pull/1106",
+   "era": "post",
+   "created_at": "2026-10-08T01:10:23Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1103,
+   "url": "https://github.com/pixiv/charcoal/pull/1103",
+   "era": "post",
+   "created_at": "2026-10-05T12:15:51Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1100,
+   "url": "https://github.com/pixiv/charcoal/pull/1100",
+   "era": "post",
+   "created_at": "2026-09-18T08:08:25Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1098,
+   "url": "https://github.com/pixiv/charcoal/pull/1098",
+   "era": "post",
+   "created_at": "2026-09-17T10:42:09Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1088,
+   "url": "https://github.com/pixiv/charcoal/pull/1088",
+   "era": "post",
+   "created_at": "2026-09-07T15:03:42Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1082,
+   "url": "https://github.com/pixiv/charcoal/pull/1082",
+   "era": "post",
+   "created_at": "2026-08-31T10:54:36Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1081,
+   "url": "https://github.com/pixiv/charcoal/pull/1081",
+   "era": "post",
+   "created_at": "2026-08-31T04:22:51Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1072,
+   "url": "https://github.com/pixiv/charcoal/pull/1072",
+   "era": "post",
+   "created_at": "2026-08-28T02:35:51Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1071,
+   "url": "https://github.com/pixiv/charcoal/pull/1071",
+   "era": "post",
+   "created_at": "2026-08-28T01:27:12Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1070,
+   "url": "https://github.com/pixiv/charcoal/pull/1070",
+   "era": "post",
+   "created_at": "2026-08-27T08:26:36Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1060,
+   "url": "https://github.com/pixiv/charcoal/pull/1060",
+   "era": "post",
+   "created_at": "2026-08-26T02:15:37Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1059,
+   "url": "https://github.com/pixiv/charcoal/pull/1059",
+   "era": "post",
+   "created_at": "2026-08-26T02:14:21Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1057,
+   "url": "https://github.com/pixiv/charcoal/pull/1057",
+   "era": "post",
+   "created_at": "2026-08-25T11:11:19Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1056,
+   "url": "https://github.com/pixiv/charcoal/pull/1056",
+   "era": "post",
+   "created_at": "2026-08-25T10:09:31Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1055,
+   "url": "https://github.com/pixiv/charcoal/pull/1055",
+   "era": "post",
+   "created_at": "2026-08-25T09:19:11Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1051,
+   "url": "https://github.com/pixiv/charcoal/pull/1051",
+   "era": "post",
+   "created_at": "2026-08-24T09:43:14Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1047,
+   "url": "https://github.com/pixiv/charcoal/pull/1047",
+   "era": "post",
+   "created_at": "2026-08-24T02:20:10Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1046,
+   "url": "https://github.com/pixiv/charcoal/pull/1046",
+   "era": "post",
+   "created_at": "2026-08-21T07:49:53Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1045,
+   "url": "https://github.com/pixiv/charcoal/pull/1045",
+   "era": "post",
+   "created_at": "2026-08-21T07:43:27Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1040,
+   "url": "https://github.com/pixiv/charcoal/pull/1040",
+   "era": "post",
+   "created_at": "2026-08-20T08:52:43Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1039,
+   "url": "https://github.com/pixiv/charcoal/pull/1039",
+   "era": "post",
+   "created_at": "2026-08-20T08:18:58Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1030,
+   "url": "https://github.com/pixiv/charcoal/pull/1030",
+   "era": "post",
+   "created_at": "2026-08-05T05:59:19Z"
+  },
+  {
+   "repo": "pixiv/charcoal",
+   "number": 1012,
+   "url": "https://github.com/pixiv/charcoal/pull/1012",
+   "era": "post",
+   "created_at": "2026-08-03T08:04:03Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 390,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/390",
+   "era": "pre",
+   "created_at": "2022-10-31T07:09:15Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 388,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/388",
+   "era": "pre",
+   "created_at": "2022-10-27T08:45:58Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 383,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/383",
+   "era": "pre",
+   "created_at": "2022-10-04T01:29:09Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 382,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/382",
+   "era": "pre",
+   "created_at": "2022-10-03T08:45:29Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 380,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/380",
+   "era": "pre",
+   "created_at": "2022-10-03T01:28:15Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 375,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/375",
+   "era": "pre",
+   "created_at": "2022-09-26T01:25:28Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 374,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/374",
+   "era": "pre",
+   "created_at": "2022-09-21T08:57:22Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 373,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/373",
+   "era": "pre",
+   "created_at": "2022-09-20T06:16:07Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 371,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/371",
+   "era": "pre",
+   "created_at": "2022-09-15T04:12:18Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 370,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/370",
+   "era": "pre",
+   "created_at": "2022-09-15T03:38:40Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 367,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/367",
+   "era": "pre",
+   "created_at": "2022-09-14T06:34:39Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 361,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/361",
+   "era": "pre",
+   "created_at": "2022-09-13T09:42:13Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 357,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/357",
+   "era": "pre",
+   "created_at": "2022-09-12T02:41:53Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 348,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/348",
+   "era": "pre",
+   "created_at": "2022-09-01T03:45:26Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 335,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/335",
+   "era": "pre",
+   "created_at": "2022-08-23T02:13:44Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 334,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/334",
+   "era": "pre",
+   "created_at": "2022-08-23T01:38:54Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 333,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/333",
+   "era": "pre",
+   "created_at": "2022-08-23T00:36:39Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 325,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/325",
+   "era": "pre",
+   "created_at": "2022-08-09T00:48:22Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 323,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/323",
+   "era": "pre",
+   "created_at": "2022-08-05T02:16:17Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 309,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/309",
+   "era": "pre",
+   "created_at": "2022-06-27T09:31:29Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 307,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/307",
+   "era": "pre",
+   "created_at": "2022-06-23T00:30:26Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 305,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/305",
+   "era": "pre",
+   "created_at": "2022-06-16T07:42:20Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 304,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/304",
+   "era": "pre",
+   "created_at": "2022-06-16T03:05:35Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 303,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/303",
+   "era": "pre",
+   "created_at": "2022-06-13T08:46:40Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 301,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/301",
+   "era": "pre",
+   "created_at": "2022-06-09T01:19:58Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 731,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/731",
+   "era": "post",
+   "created_at": "2026-10-19T07:15:29Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 730,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/730",
+   "era": "post",
+   "created_at": "2026-10-19T04:56:33Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 728,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/728",
+   "era": "post",
+   "created_at": "2026-10-16T06:17:40Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 726,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/726",
+   "era": "post",
+   "created_at": "2026-10-16T05:41:23Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 724,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/724",
+   "era": "post",
+   "created_at": "2026-10-09T08:01:24Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 723,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/723",
+   "era": "post",
+   "created_at": "2026-10-09T06:59:41Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 721,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/721",
+   "era": "post",
+   "created_at": "2026-10-08T01:01:37Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 719,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/719",
+   "era": "post",
+   "created_at": "2026-10-06T07:05:38Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 715,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/715",
+   "era": "post",
+   "created_at": "2026-09-30T00:59:52Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 714,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/714",
+   "era": "post",
+   "created_at": "2026-09-28T09:51:21Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 713,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/713",
+   "era": "post",
+   "created_at": "2026-09-28T06:10:35Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 712,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/712",
+   "era": "post",
+   "created_at": "2026-09-15T08:58:37Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 711,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/711",
+   "era": "post",
+   "created_at": "2026-09-11T06:44:18Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 709,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/709",
+   "era": "post",
+   "created_at": "2026-09-04T08:13:18Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 708,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/708",
+   "era": "post",
+   "created_at": "2026-09-03T23:41:38Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 706,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/706",
+   "era": "post",
+   "created_at": "2026-09-03T02:54:53Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 701,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/701",
+   "era": "post",
+   "created_at": "2026-08-26T05:15:45Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 699,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/699",
+   "era": "post",
+   "created_at": "2026-08-25T05:23:35Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 698,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/698",
+   "era": "post",
+   "created_at": "2026-08-25T05:21:46Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 697,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/697",
+   "era": "post",
+   "created_at": "2026-08-24T11:10:57Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 696,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/696",
+   "era": "post",
+   "created_at": "2026-08-24T09:11:12Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 691,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/691",
+   "era": "post",
+   "created_at": "2026-07-28T06:43:14Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 686,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/686",
+   "era": "post",
+   "created_at": "2026-06-26T04:52:23Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 684,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/684",
+   "era": "post",
+   "created_at": "2026-06-24T03:49:13Z"
+  },
+  {
+   "repo": "zenn-dev/zenn-editor",
+   "number": 682,
+   "url": "https://github.com/zenn-dev/zenn-editor/pull/682",
+   "era": "post",
+   "created_at": "2026-06-15T01:15:51Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 999,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/999",
+   "era": "pre",
+   "created_at": "2022-10-30T11:27:29Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 998,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/998",
+   "era": "pre",
+   "created_at": "2022-10-29T15:25:48Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 988,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/988",
+   "era": "pre",
+   "created_at": "2022-10-19T11:34:34Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 976,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/976",
+   "era": "pre",
+   "created_at": "2022-10-10T14:16:13Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 973,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/973",
+   "era": "pre",
+   "created_at": "2022-10-06T17:41:10Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 967,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/967",
+   "era": "pre",
+   "created_at": "2022-10-02T13:35:35Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 965,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/965",
+   "era": "pre",
+   "created_at": "2022-10-01T21:36:44Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 961,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/961",
+   "era": "pre",
+   "created_at": "2022-09-29T10:35:28Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 959,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/959",
+   "era": "pre",
+   "created_at": "2022-09-28T03:56:52Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 951,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/951",
+   "era": "pre",
+   "created_at": "2022-09-23T05:14:18Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 950,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/950",
+   "era": "pre",
+   "created_at": "2022-09-22T22:11:36Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 943,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/943",
+   "era": "pre",
+   "created_at": "2022-09-17T22:01:36Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 937,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/937",
+   "era": "pre",
+   "created_at": "2022-09-16T11:46:06Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 926,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/926",
+   "era": "pre",
+   "created_at": "2022-09-07T10:13:59Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 919,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/919",
+   "era": "pre",
+   "created_at": "2022-09-03T10:18:22Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 909,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/909",
+   "era": "pre",
+   "created_at": "2022-08-21T08:51:01Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 894,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/894",
+   "era": "pre",
+   "created_at": "2022-08-12T23:27:36Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 893,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/893",
+   "era": "pre",
+   "created_at": "2022-08-12T15:22:16Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 892,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/892",
+   "era": "pre",
+   "created_at": "2022-08-12T07:31:34Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 888,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/888",
+   "era": "pre",
+   "created_at": "2022-08-07T06:06:57Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 883,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/883",
+   "era": "pre",
+   "created_at": "2022-08-03T16:22:46Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 875,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/875",
+   "era": "pre",
+   "created_at": "2022-07-30T22:23:56Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 872,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/872",
+   "era": "pre",
+   "created_at": "2022-07-23T16:12:39Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 871,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/871",
+   "era": "pre",
+   "created_at": "2022-07-23T14:45:22Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 870,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/870",
+   "era": "pre",
+   "created_at": "2022-07-21T17:10:06Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3166,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3166",
+   "era": "post",
+   "created_at": "2026-10-18T17:21:29Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3165,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3165",
+   "era": "post",
+   "created_at": "2026-10-18T13:36:15Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3162,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3162",
+   "era": "post",
+   "created_at": "2026-10-18T08:00:17Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3157,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3157",
+   "era": "post",
+   "created_at": "2026-10-16T13:42:39Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3156,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3156",
+   "era": "post",
+   "created_at": "2026-10-15T18:11:20Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3154,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3154",
+   "era": "post",
+   "created_at": "2026-10-15T07:18:39Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3141,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3141",
+   "era": "post",
+   "created_at": "2026-10-11T15:35:38Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3136,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3136",
+   "era": "post",
+   "created_at": "2026-10-05T14:28:23Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3135,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3135",
+   "era": "post",
+   "created_at": "2026-10-03T19:31:07Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3134,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3134",
+   "era": "post",
+   "created_at": "2026-10-03T19:01:22Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3132,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3132",
+   "era": "post",
+   "created_at": "2026-09-29T09:47:06Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3131,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3131",
+   "era": "post",
+   "created_at": "2026-09-27T14:22:36Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3123,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3123",
+   "era": "post",
+   "created_at": "2026-09-21T07:41:28Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3120,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3120",
+   "era": "post",
+   "created_at": "2026-09-19T07:37:34Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3113,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3113",
+   "era": "post",
+   "created_at": "2026-09-14T09:06:13Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3110,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3110",
+   "era": "post",
+   "created_at": "2026-09-11T11:23:52Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3109,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3109",
+   "era": "post",
+   "created_at": "2026-09-11T10:25:50Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3107,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3107",
+   "era": "post",
+   "created_at": "2026-09-10T23:49:28Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3105,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3105",
+   "era": "post",
+   "created_at": "2026-09-10T19:11:10Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3103,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3103",
+   "era": "post",
+   "created_at": "2026-09-08T12:04:22Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3100,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3100",
+   "era": "post",
+   "created_at": "2026-09-06T12:30:13Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3095,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3095",
+   "era": "post",
+   "created_at": "2026-09-03T07:57:32Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3093,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3093",
+   "era": "post",
+   "created_at": "2026-09-02T10:32:40Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3092,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3092",
+   "era": "post",
+   "created_at": "2026-08-30T23:51:34Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox",
+   "number": 3091,
+   "url": "https://github.com/VOICEVOX/voicevox/pull/3091",
+   "era": "post",
+   "created_at": "2026-08-30T11:31:19Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 500,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/500",
+   "era": "pre",
+   "created_at": "2022-10-31T20:30:41Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 496,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/496",
+   "era": "pre",
+   "created_at": "2022-10-27T11:39:29Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 494,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/494",
+   "era": "pre",
+   "created_at": "2022-10-24T13:59:10Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 490,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/490",
+   "era": "pre",
+   "created_at": "2022-10-17T11:01:02Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 484,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/484",
+   "era": "pre",
+   "created_at": "2022-10-07T08:22:36Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 483,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/483",
+   "era": "pre",
+   "created_at": "2022-10-05T16:12:28Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 478,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/478",
+   "era": "pre",
+   "created_at": "2022-09-21T13:37:46Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 474,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/474",
+   "era": "pre",
+   "created_at": "2022-09-16T13:52:50Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 473,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/473",
+   "era": "pre",
+   "created_at": "2022-09-16T07:15:28Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 471,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/471",
+   "era": "pre",
+   "created_at": "2022-09-14T13:29:15Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 470,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/470",
+   "era": "pre",
+   "created_at": "2022-09-12T13:02:15Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 469,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/469",
+   "era": "pre",
+   "created_at": "2022-09-12T13:00:54Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 468,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/468",
+   "era": "pre",
+   "created_at": "2022-09-10T15:24:10Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 464,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/464",
+   "era": "pre",
+   "created_at": "2022-09-05T23:04:45Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 458,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/458",
+   "era": "pre",
+   "created_at": "2022-08-27T14:50:54Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 442,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/442",
+   "era": "pre",
+   "created_at": "2022-08-03T13:18:56Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 437,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/437",
+   "era": "pre",
+   "created_at": "2022-07-24T09:29:51Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 436,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/436",
+   "era": "pre",
+   "created_at": "2022-07-17T18:14:13Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 435,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/435",
+   "era": "pre",
+   "created_at": "2022-07-14T15:47:58Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 430,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/430",
+   "era": "pre",
+   "created_at": "2022-07-05T14:22:15Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 415,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/415",
+   "era": "pre",
+   "created_at": "2022-05-29T15:47:38Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 407,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/407",
+   "era": "pre",
+   "created_at": "2022-05-15T10:55:01Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 405,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/405",
+   "era": "pre",
+   "created_at": "2022-05-14T10:58:39Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 404,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/404",
+   "era": "pre",
+   "created_at": "2022-05-14T10:42:11Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 402,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/402",
+   "era": "pre",
+   "created_at": "2022-05-13T16:01:20Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1891,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1891",
+   "era": "post",
+   "created_at": "2026-09-23T06:05:00Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1890,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1890",
+   "era": "post",
+   "created_at": "2026-09-23T00:54:37Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1888,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1888",
+   "era": "post",
+   "created_at": "2026-09-19T11:10:40Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1887,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1887",
+   "era": "post",
+   "created_at": "2026-09-16T11:34:09Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1883,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1883",
+   "era": "post",
+   "created_at": "2026-09-11T00:23:23Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1880,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1880",
+   "era": "post",
+   "created_at": "2026-08-25T23:57:07Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1879,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1879",
+   "era": "post",
+   "created_at": "2026-08-25T15:41:30Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1874,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1874",
+   "era": "post",
+   "created_at": "2026-08-11T09:00:51Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1873,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1873",
+   "era": "post",
+   "created_at": "2026-08-04T13:46:20Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1872,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1872",
+   "era": "post",
+   "created_at": "2026-07-20T05:17:44Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1869,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1869",
+   "era": "post",
+   "created_at": "2026-07-11T15:09:43Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1863,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1863",
+   "era": "post",
+   "created_at": "2026-06-15T15:02:28Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1860,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1860",
+   "era": "post",
+   "created_at": "2026-05-09T14:18:25Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1857,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1857",
+   "era": "post",
+   "created_at": "2026-04-30T07:16:01Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1855,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1855",
+   "era": "post",
+   "created_at": "2026-04-29T16:52:54Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1854,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1854",
+   "era": "post",
+   "created_at": "2026-04-18T18:28:00Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1852,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1852",
+   "era": "post",
+   "created_at": "2026-04-08T13:47:53Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1843,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1843",
+   "era": "post",
+   "created_at": "2026-02-13T10:49:27Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1842,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1842",
+   "era": "post",
+   "created_at": "2026-02-11T04:12:07Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1841,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1841",
+   "era": "post",
+   "created_at": "2026-02-07T14:22:55Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1839,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1839",
+   "era": "post",
+   "created_at": "2026-01-11T10:06:10Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1834,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1834",
+   "era": "post",
+   "created_at": "2026-01-05T13:10:40Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1830,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1830",
+   "era": "post",
+   "created_at": "2025-12-27T15:22:40Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1828,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1828",
+   "era": "post",
+   "created_at": "2025-12-04T22:47:19Z"
+  },
+  {
+   "repo": "VOICEVOX/voicevox_engine",
+   "number": 1827,
+   "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1827",
+   "era": "post",
+   "created_at": "2025-11-28T13:50:58Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 157,
+   "url": "https://github.com/vivliostyle/vfm/pull/157",
+   "era": "pre",
+   "created_at": "2022-10-09T08:36:53Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 142,
+   "url": "https://github.com/vivliostyle/vfm/pull/142",
+   "era": "pre",
+   "created_at": "2022-01-20T09:05:11Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 137,
+   "url": "https://github.com/vivliostyle/vfm/pull/137",
+   "era": "pre",
+   "created_at": "2021-12-27T16:47:50Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 131,
+   "url": "https://github.com/vivliostyle/vfm/pull/131",
+   "era": "pre",
+   "created_at": "2021-12-06T10:33:59Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 120,
+   "url": "https://github.com/vivliostyle/vfm/pull/120",
+   "era": "pre",
+   "created_at": "2021-07-23T08:20:49Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 114,
+   "url": "https://github.com/vivliostyle/vfm/pull/114",
+   "era": "pre",
+   "created_at": "2021-07-06T10:38:09Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 113,
+   "url": "https://github.com/vivliostyle/vfm/pull/113",
+   "era": "pre",
+   "created_at": "2021-07-04T08:00:51Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 112,
+   "url": "https://github.com/vivliostyle/vfm/pull/112",
+   "era": "pre",
+   "created_at": "2021-07-01T09:23:37Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 96,
+   "url": "https://github.com/vivliostyle/vfm/pull/96",
+   "era": "pre",
+   "created_at": "2021-05-07T10:22:47Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 94,
+   "url": "https://github.com/vivliostyle/vfm/pull/94",
+   "era": "pre",
+   "created_at": "2021-05-01T11:16:39Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 92,
+   "url": "https://github.com/vivliostyle/vfm/pull/92",
+   "era": "pre",
+   "created_at": "2021-04-30T06:12:45Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 91,
+   "url": "https://github.com/vivliostyle/vfm/pull/91",
+   "era": "pre",
+   "created_at": "2021-04-29T05:44:26Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 90,
+   "url": "https://github.com/vivliostyle/vfm/pull/90",
+   "era": "pre",
+   "created_at": "2021-04-28T09:10:07Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 89,
+   "url": "https://github.com/vivliostyle/vfm/pull/89",
+   "era": "pre",
+   "created_at": "2021-04-19T10:45:43Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 88,
+   "url": "https://github.com/vivliostyle/vfm/pull/88",
+   "era": "pre",
+   "created_at": "2021-04-17T22:55:30Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 87,
+   "url": "https://github.com/vivliostyle/vfm/pull/87",
+   "era": "pre",
+   "created_at": "2021-04-15T10:17:42Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 83,
+   "url": "https://github.com/vivliostyle/vfm/pull/83",
+   "era": "pre",
+   "created_at": "2021-04-09T12:45:06Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 80,
+   "url": "https://github.com/vivliostyle/vfm/pull/80",
+   "era": "pre",
+   "created_at": "2021-04-08T00:56:37Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 71,
+   "url": "https://github.com/vivliostyle/vfm/pull/71",
+   "era": "pre",
+   "created_at": "2021-02-22T09:22:32Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 70,
+   "url": "https://github.com/vivliostyle/vfm/pull/70",
+   "era": "pre",
+   "created_at": "2021-02-20T09:04:32Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 68,
+   "url": "https://github.com/vivliostyle/vfm/pull/68",
+   "era": "pre",
+   "created_at": "2021-02-07T06:29:27Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 54,
+   "url": "https://github.com/vivliostyle/vfm/pull/54",
+   "era": "pre",
+   "created_at": "2021-01-12T03:59:24Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 3,
+   "url": "https://github.com/vivliostyle/vfm/pull/3",
+   "era": "pre",
+   "created_at": "2020-01-25T09:40:20Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 315,
+   "url": "https://github.com/vivliostyle/vfm/pull/315",
+   "era": "post",
+   "created_at": "2026-10-17T05:36:38Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 312,
+   "url": "https://github.com/vivliostyle/vfm/pull/312",
+   "era": "post",
+   "created_at": "2026-10-17T05:04:45Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 310,
+   "url": "https://github.com/vivliostyle/vfm/pull/310",
+   "era": "post",
+   "created_at": "2026-10-17T04:33:11Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 309,
+   "url": "https://github.com/vivliostyle/vfm/pull/309",
+   "era": "post",
+   "created_at": "2026-10-17T04:20:11Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 308,
+   "url": "https://github.com/vivliostyle/vfm/pull/308",
+   "era": "post",
+   "created_at": "2026-10-17T03:56:31Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 306,
+   "url": "https://github.com/vivliostyle/vfm/pull/306",
+   "era": "post",
+   "created_at": "2026-10-17T01:52:10Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 269,
+   "url": "https://github.com/vivliostyle/vfm/pull/269",
+   "era": "post",
+   "created_at": "2026-08-29T15:00:40Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 267,
+   "url": "https://github.com/vivliostyle/vfm/pull/267",
+   "era": "post",
+   "created_at": "2026-08-01T05:51:53Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 257,
+   "url": "https://github.com/vivliostyle/vfm/pull/257",
+   "era": "post",
+   "created_at": "2026-06-26T06:34:58Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 256,
+   "url": "https://github.com/vivliostyle/vfm/pull/256",
+   "era": "post",
+   "created_at": "2026-06-25T09:38:22Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 255,
+   "url": "https://github.com/vivliostyle/vfm/pull/255",
+   "era": "post",
+   "created_at": "2026-06-25T03:34:57Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 254,
+   "url": "https://github.com/vivliostyle/vfm/pull/254",
+   "era": "post",
+   "created_at": "2026-06-25T00:52:22Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 253,
+   "url": "https://github.com/vivliostyle/vfm/pull/253",
+   "era": "post",
+   "created_at": "2026-06-23T07:53:49Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 246,
+   "url": "https://github.com/vivliostyle/vfm/pull/246",
+   "era": "post",
+   "created_at": "2026-05-18T11:32:32Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 243,
+   "url": "https://github.com/vivliostyle/vfm/pull/243",
+   "era": "post",
+   "created_at": "2026-04-27T11:02:16Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 242,
+   "url": "https://github.com/vivliostyle/vfm/pull/242",
+   "era": "post",
+   "created_at": "2026-04-27T07:34:05Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 241,
+   "url": "https://github.com/vivliostyle/vfm/pull/241",
+   "era": "post",
+   "created_at": "2026-04-27T07:06:18Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 240,
+   "url": "https://github.com/vivliostyle/vfm/pull/240",
+   "era": "post",
+   "created_at": "2026-04-26T02:44:16Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 238,
+   "url": "https://github.com/vivliostyle/vfm/pull/238",
+   "era": "post",
+   "created_at": "2026-04-23T13:23:53Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 237,
+   "url": "https://github.com/vivliostyle/vfm/pull/237",
+   "era": "post",
+   "created_at": "2026-04-07T17:42:58Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 232,
+   "url": "https://github.com/vivliostyle/vfm/pull/232",
+   "era": "post",
+   "created_at": "2026-03-15T07:38:17Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 226,
+   "url": "https://github.com/vivliostyle/vfm/pull/226",
+   "era": "post",
+   "created_at": "2026-02-05T18:04:12Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 209,
+   "url": "https://github.com/vivliostyle/vfm/pull/209",
+   "era": "post",
+   "created_at": "2025-12-12T04:15:28Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 206,
+   "url": "https://github.com/vivliostyle/vfm/pull/206",
+   "era": "post",
+   "created_at": "2025-10-05T08:18:40Z"
+  },
+  {
+   "repo": "vivliostyle/vfm",
+   "number": 199,
+   "url": "https://github.com/vivliostyle/vfm/pull/199",
+   "era": "post",
+   "created_at": "2025-07-17T05:19:24Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1860,
+   "url": "https://github.com/kmuto/review/pull/1860",
+   "era": "pre",
+   "created_at": "2022-09-11T13:27:42Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1856,
+   "url": "https://github.com/kmuto/review/pull/1856",
+   "era": "pre",
+   "created_at": "2022-09-04T05:12:05Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1783,
+   "url": "https://github.com/kmuto/review/pull/1783",
+   "era": "pre",
+   "created_at": "2022-01-10T03:07:28Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1780,
+   "url": "https://github.com/kmuto/review/pull/1780",
+   "era": "pre",
+   "created_at": "2022-01-08T02:48:07Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1779,
+   "url": "https://github.com/kmuto/review/pull/1779",
+   "era": "pre",
+   "created_at": "2022-01-07T13:05:33Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1775,
+   "url": "https://github.com/kmuto/review/pull/1775",
+   "era": "pre",
+   "created_at": "2022-01-06T05:44:18Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1743,
+   "url": "https://github.com/kmuto/review/pull/1743",
+   "era": "pre",
+   "created_at": "2021-09-23T07:39:25Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1738,
+   "url": "https://github.com/kmuto/review/pull/1738",
+   "era": "pre",
+   "created_at": "2021-09-06T12:22:32Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1736,
+   "url": "https://github.com/kmuto/review/pull/1736",
+   "era": "pre",
+   "created_at": "2021-09-06T02:28:42Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1728,
+   "url": "https://github.com/kmuto/review/pull/1728",
+   "era": "pre",
+   "created_at": "2021-09-04T08:41:33Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1727,
+   "url": "https://github.com/kmuto/review/pull/1727",
+   "era": "pre",
+   "created_at": "2021-09-03T07:12:38Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1716,
+   "url": "https://github.com/kmuto/review/pull/1716",
+   "era": "pre",
+   "created_at": "2021-06-28T09:59:51Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1713,
+   "url": "https://github.com/kmuto/review/pull/1713",
+   "era": "pre",
+   "created_at": "2021-06-25T16:43:14Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1705,
+   "url": "https://github.com/kmuto/review/pull/1705",
+   "era": "pre",
+   "created_at": "2021-05-31T09:34:49Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1685,
+   "url": "https://github.com/kmuto/review/pull/1685",
+   "era": "pre",
+   "created_at": "2021-04-10T13:46:04Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1667,
+   "url": "https://github.com/kmuto/review/pull/1667",
+   "era": "pre",
+   "created_at": "2021-02-13T08:19:34Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1663,
+   "url": "https://github.com/kmuto/review/pull/1663",
+   "era": "pre",
+   "created_at": "2021-02-10T10:33:50Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1661,
+   "url": "https://github.com/kmuto/review/pull/1661",
+   "era": "pre",
+   "created_at": "2021-02-08T09:47:32Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1642,
+   "url": "https://github.com/kmuto/review/pull/1642",
+   "era": "pre",
+   "created_at": "2021-01-11T13:24:42Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1640,
+   "url": "https://github.com/kmuto/review/pull/1640",
+   "era": "pre",
+   "created_at": "2021-01-09T09:19:12Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1637,
+   "url": "https://github.com/kmuto/review/pull/1637",
+   "era": "pre",
+   "created_at": "2021-01-06T09:35:11Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1635,
+   "url": "https://github.com/kmuto/review/pull/1635",
+   "era": "pre",
+   "created_at": "2021-01-03T03:58:10Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1631,
+   "url": "https://github.com/kmuto/review/pull/1631",
+   "era": "pre",
+   "created_at": "2020-12-31T10:21:42Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1612,
+   "url": "https://github.com/kmuto/review/pull/1612",
+   "era": "pre",
+   "created_at": "2020-12-12T09:37:34Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1579,
+   "url": "https://github.com/kmuto/review/pull/1579",
+   "era": "pre",
+   "created_at": "2020-10-09T01:27:05Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1974,
+   "url": "https://github.com/kmuto/review/pull/1974",
+   "era": "post",
+   "created_at": "2026-07-20T11:13:16Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1972,
+   "url": "https://github.com/kmuto/review/pull/1972",
+   "era": "post",
+   "created_at": "2026-07-20T03:56:53Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1949,
+   "url": "https://github.com/kmuto/review/pull/1949",
+   "era": "post",
+   "created_at": "2025-10-12T09:05:17Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1945,
+   "url": "https://github.com/kmuto/review/pull/1945",
+   "era": "post",
+   "created_at": "2025-09-02T10:20:59Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1943,
+   "url": "https://github.com/kmuto/review/pull/1943",
+   "era": "post",
+   "created_at": "2025-08-14T03:27:55Z"
+  },
+  {
+   "repo": "kmuto/review",
+   "number": 1941,
+   "url": "https://github.com/kmuto/review/pull/1941",
+   "era": "post",
+   "created_at": "2025-08-05T23:14:59Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2862,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2862",
+   "era": "pre",
+   "created_at": "2022-10-27T02:28:28Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2859,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2859",
+   "era": "pre",
+   "created_at": "2022-10-25T06:32:02Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2858,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2858",
+   "era": "pre",
+   "created_at": "2022-10-24T09:33:08Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2844,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2844",
+   "era": "pre",
+   "created_at": "2022-10-21T05:30:34Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2841,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2841",
+   "era": "pre",
+   "created_at": "2022-10-20T07:29:13Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2819,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2819",
+   "era": "pre",
+   "created_at": "2022-10-13T01:17:47Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2807,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2807",
+   "era": "pre",
+   "created_at": "2022-10-07T05:24:26Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2806,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2806",
+   "era": "pre",
+   "created_at": "2022-10-05T01:57:38Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2805,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2805",
+   "era": "pre",
+   "created_at": "2022-10-05T01:29:10Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2794,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2794",
+   "era": "pre",
+   "created_at": "2022-09-30T09:55:01Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2793,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2793",
+   "era": "pre",
+   "created_at": "2022-09-30T02:20:32Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2774,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2774",
+   "era": "pre",
+   "created_at": "2022-09-15T05:08:53Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2758,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2758",
+   "era": "pre",
+   "created_at": "2022-09-07T23:23:26Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2754,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2754",
+   "era": "pre",
+   "created_at": "2022-09-06T07:38:14Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2743,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2743",
+   "era": "pre",
+   "created_at": "2022-08-29T01:50:15Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2731,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2731",
+   "era": "pre",
+   "created_at": "2022-08-25T20:03:08Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2730,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2730",
+   "era": "pre",
+   "created_at": "2022-08-25T02:28:25Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2729,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2729",
+   "era": "pre",
+   "created_at": "2022-08-24T21:31:06Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2727,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2727",
+   "era": "pre",
+   "created_at": "2022-08-23T22:59:58Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2723,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2723",
+   "era": "pre",
+   "created_at": "2022-08-22T23:44:40Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2712,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2712",
+   "era": "pre",
+   "created_at": "2022-08-19T03:05:38Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2708,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2708",
+   "era": "pre",
+   "created_at": "2022-08-16T05:34:55Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2707,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2707",
+   "era": "pre",
+   "created_at": "2022-08-16T05:06:57Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2685,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2685",
+   "era": "pre",
+   "created_at": "2022-08-04T01:01:37Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 2679,
+   "url": "https://github.com/kufu/smarthr-ui/pull/2679",
+   "era": "pre",
+   "created_at": "2022-07-29T08:37:17Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7375,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7375",
+   "era": "post",
+   "created_at": "2026-10-20T05:05:48Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7372,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7372",
+   "era": "post",
+   "created_at": "2026-10-19T00:10:53Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7369,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7369",
+   "era": "post",
+   "created_at": "2026-10-18T22:42:44Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7367,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7367",
+   "era": "post",
+   "created_at": "2026-10-16T01:11:57Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7365,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7365",
+   "era": "post",
+   "created_at": "2026-10-15T22:06:36Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7364,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7364",
+   "era": "post",
+   "created_at": "2026-10-15T09:04:26Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7362,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7362",
+   "era": "post",
+   "created_at": "2026-10-15T05:15:10Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7361,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7361",
+   "era": "post",
+   "created_at": "2026-10-15T04:41:59Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7360,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7360",
+   "era": "post",
+   "created_at": "2026-10-14T22:43:54Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7358,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7358",
+   "era": "post",
+   "created_at": "2026-10-13T23:17:11Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7357,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7357",
+   "era": "post",
+   "created_at": "2026-10-13T23:01:41Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7353,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7353",
+   "era": "post",
+   "created_at": "2026-10-13T00:55:37Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7351,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7351",
+   "era": "post",
+   "created_at": "2026-10-12T23:22:48Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7350,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7350",
+   "era": "post",
+   "created_at": "2026-10-12T23:12:52Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7349,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7349",
+   "era": "post",
+   "created_at": "2026-10-12T23:03:37Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7348,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7348",
+   "era": "post",
+   "created_at": "2026-10-12T22:19:06Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7347,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7347",
+   "era": "post",
+   "created_at": "2026-10-12T22:06:59Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7346,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7346",
+   "era": "post",
+   "created_at": "2026-10-09T04:03:15Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7343,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7343",
+   "era": "post",
+   "created_at": "2026-10-08T23:14:36Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7341,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7341",
+   "era": "post",
+   "created_at": "2026-10-08T00:59:43Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7339,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7339",
+   "era": "post",
+   "created_at": "2026-10-08T00:31:25Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7338,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7338",
+   "era": "post",
+   "created_at": "2026-10-08T00:26:25Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7337,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7337",
+   "era": "post",
+   "created_at": "2026-10-08T00:16:12Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7335,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7335",
+   "era": "post",
+   "created_at": "2026-10-07T23:41:16Z"
+  },
+  {
+   "repo": "kufu/smarthr-ui",
+   "number": 7333,
+   "url": "https://github.com/kufu/smarthr-ui/pull/7333",
+   "era": "post",
+   "created_at": "2026-10-07T21:46:20Z"
+  }
+ ]
+}

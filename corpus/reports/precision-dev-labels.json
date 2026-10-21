@@ -1,0 +1,940 @@
+[
+ {
+  "url": "https://github.com/sakura-editor/sakura/pull/1843",
+  "line": 11,
+  "detector": "keigo_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/sakura-editor/sakura/pull/2747",
+  "line": 32,
+  "detector": "keigo_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7178",
+  "line": 18,
+  "detector": "keigo_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1880",
+  "line": 38,
+  "detector": "keigo_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/zenn-dev/zenn-editor/pull/726",
+  "line": 46,
+  "detector": "keigo_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/zenn-dev/zenn-editor/pull/728",
+  "line": 45,
+  "detector": "keigo_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/sakura-editor/sakura/pull/1834",
+  "line": 37,
+  "detector": "keigo_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1863",
+  "line": 81,
+  "detector": "keigo_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/zenn-dev/zenn-editor/pull/728",
+  "line": 21,
+  "detector": "keigo_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1851",
+  "line": 74,
+  "detector": "keigo_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/zenn-dev/zenn-editor/pull/698",
+  "line": 5,
+  "detector": "keigo_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7114",
+  "line": 112,
+  "detector": "keigo_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/zenn-dev/zenn-editor/pull/726",
+  "line": 26,
+  "detector": "keigo_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7144",
+  "line": 73,
+  "detector": "keigo_bullet",
+  "label": "FP",
+  "category": "bot_generated"
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1871",
+  "line": 9,
+  "detector": "keigo_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7144",
+  "line": 74,
+  "detector": "keigo_bullet",
+  "label": "FP",
+  "category": "bot_generated"
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7152",
+  "line": 21,
+  "detector": "keigo_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/VOICEVOX/voicevox/pull/3156",
+  "line": 13,
+  "detector": "keigo_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1882",
+  "line": 20,
+  "detector": "keigo_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/zenn-dev/zenn-editor/pull/712",
+  "line": 7,
+  "detector": "keigo_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/83",
+  "line": 5,
+  "detector": "request_late",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/68",
+  "line": 11,
+  "detector": "request_late",
+  "label": "FP",
+  "category": "request_is_greeting"
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/91",
+  "line": 6,
+  "detector": "request_late",
+  "label": "FP",
+  "category": "request_is_greeting"
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1863",
+  "line": 6,
+  "detector": "request_late",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/zenn-dev/zenn-editor/pull/728",
+  "line": 76,
+  "detector": "request_late",
+  "label": "FP",
+  "category": "template_boilerplate"
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7105",
+  "line": 138,
+  "detector": "request_late",
+  "label": "FP",
+  "category": "procedure_instruction"
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/94",
+  "line": 7,
+  "detector": "request_late",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/120",
+  "line": 8,
+  "detector": "request_late",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/VOICEVOX/voicevox/pull/999",
+  "line": 8,
+  "detector": "request_late",
+  "label": "FP",
+  "category": "request_is_greeting"
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/90",
+  "line": 10,
+  "detector": "request_late",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1856",
+  "line": 62,
+  "detector": "request_late",
+  "label": "FP",
+  "category": "notice_not_request"
+ },
+ {
+  "url": "https://github.com/kufu/smarthr-ui/pull/7353",
+  "line": 52,
+  "detector": "request_late",
+  "label": "FP",
+  "category": "bot_generated"
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/5843",
+  "line": 81,
+  "detector": "request_late",
+  "label": "FP",
+  "category": "procedure_instruction"
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/96",
+  "line": 12,
+  "detector": "request_late",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/242",
+  "line": 1,
+  "detector": "bare_id",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1855",
+  "line": 13,
+  "detector": "bare_id",
+  "label": "FP",
+  "category": "explained_elsewhere"
+ },
+ {
+  "url": "https://github.com/sakura-editor/sakura/pull/2720",
+  "line": 4,
+  "detector": "bare_id",
+  "label": "FP",
+  "category": "explained_inline"
+ },
+ {
+  "url": "https://github.com/kufu/smarthr-ui/pull/2819",
+  "line": 35,
+  "detector": "bare_id",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/kmuto/review/pull/1736",
+  "line": 1,
+  "detector": "bare_id",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/199",
+  "line": 1,
+  "detector": "bare_id",
+  "label": "FP",
+  "category": "explained_inline"
+ },
+ {
+  "url": "https://github.com/kmuto/review/pull/1642",
+  "line": 1,
+  "detector": "bare_id",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/VOICEVOX/voicevox/pull/3166",
+  "line": 8,
+  "detector": "bare_id",
+  "label": "FP",
+  "category": "explained_inline"
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7117",
+  "line": 7,
+  "detector": "bare_id",
+  "label": "FP",
+  "category": "not_an_id"
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/5832",
+  "line": 5,
+  "detector": "bare_id",
+  "label": "FP",
+  "category": "explained_elsewhere"
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1872",
+  "line": 17,
+  "detector": "bare_id",
+  "label": "FP",
+  "category": "explained_elsewhere"
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/91",
+  "line": 1,
+  "detector": "bare_id",
+  "label": "FP",
+  "category": "explained_elsewhere"
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/246",
+  "line": 7,
+  "detector": "bare_id",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/sakura-editor/sakura/pull/2720",
+  "line": 2,
+  "detector": "bare_id",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/92",
+  "line": 1,
+  "detector": "bare_id",
+  "label": "FP",
+  "category": "explained_elsewhere"
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/254",
+  "line": 3,
+  "detector": "bare_id",
+  "label": "FP",
+  "category": "explained_inline"
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/68",
+  "line": 1,
+  "detector": "bare_id",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1841",
+  "line": 3,
+  "detector": "bare_id",
+  "label": "FP",
+  "category": "explained_elsewhere"
+ },
+ {
+  "url": "https://github.com/kufu/smarthr-ui/pull/7361",
+  "line": 15,
+  "detector": "bare_id",
+  "label": "FP",
+  "category": "explained_inline"
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/5835",
+  "line": 5,
+  "detector": "bare_id",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/243",
+  "line": 3,
+  "detector": "undefined_term",
+  "label": "FP",
+  "category": "proper_noun"
+ },
+ {
+  "url": "https://github.com/VOICEVOX/voicevox/pull/3120",
+  "line": 65,
+  "detector": "undefined_term",
+  "label": "FP",
+  "category": "well_known_term"
+ },
+ {
+  "url": "https://github.com/sakura-editor/sakura/pull/2752",
+  "line": 36,
+  "detector": "undefined_term",
+  "label": "FP",
+  "category": "not_an_abbreviation"
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1872",
+  "line": 22,
+  "detector": "undefined_term",
+  "label": "FP",
+  "category": "not_an_abbreviation"
+ },
+ {
+  "url": "https://github.com/kufu/smarthr-ui/pull/7350",
+  "line": 25,
+  "detector": "undefined_term",
+  "label": "FP",
+  "category": "well_known_term"
+ },
+ {
+  "url": "https://github.com/sakura-editor/sakura/pull/2756",
+  "line": 12,
+  "detector": "undefined_term",
+  "label": "FP",
+  "category": "well_known_term"
+ },
+ {
+  "url": "https://github.com/kufu/smarthr-ui/pull/2774",
+  "line": 31,
+  "detector": "undefined_term",
+  "label": "FP",
+  "category": "well_known_term"
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7152",
+  "line": 3,
+  "detector": "undefined_term",
+  "label": "FP",
+  "category": "well_known_term"
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1918",
+  "line": 5,
+  "detector": "undefined_term",
+  "label": "FP",
+  "category": "well_known_term"
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/315",
+  "line": 22,
+  "detector": "undefined_term",
+  "label": "FP",
+  "category": "well_known_term"
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1909",
+  "line": 10,
+  "detector": "undefined_term",
+  "label": "FP",
+  "category": "not_an_abbreviation"
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1872",
+  "line": 20,
+  "detector": "undefined_term",
+  "label": "FP",
+  "category": "well_known_term"
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7117",
+  "line": 7,
+  "detector": "undefined_term",
+  "label": "FP",
+  "category": "well_known_term"
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/113",
+  "line": 1,
+  "detector": "undefined_term",
+  "label": "FP",
+  "category": "proper_noun"
+ },
+ {
+  "url": "https://github.com/zenn-dev/zenn-editor/pull/701",
+  "line": 14,
+  "detector": "undefined_term",
+  "label": "FP",
+  "category": "well_known_term"
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7146",
+  "line": 76,
+  "detector": "undefined_term",
+  "label": "FP",
+  "category": "well_known_term"
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7151",
+  "line": 59,
+  "detector": "undefined_term",
+  "label": "FP",
+  "category": "well_known_term"
+ },
+ {
+  "url": "https://github.com/sakura-editor/sakura/pull/2756",
+  "line": 12,
+  "detector": "undefined_term",
+  "label": "FP",
+  "category": "well_known_term"
+ },
+ {
+  "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1888",
+  "line": 27,
+  "detector": "undefined_term",
+  "label": "FP",
+  "category": "proper_noun"
+ },
+ {
+  "url": "https://github.com/VOICEVOX/voicevox/pull/3120",
+  "line": 65,
+  "detector": "undefined_term",
+  "label": "FP",
+  "category": "proper_noun"
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7144",
+  "line": 25,
+  "detector": "long_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1890",
+  "line": 17,
+  "detector": "long_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1853",
+  "line": 96,
+  "detector": "long_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1890",
+  "line": 14,
+  "detector": "long_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/zenn-dev/zenn-editor/pull/721",
+  "line": 7,
+  "detector": "long_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7124",
+  "line": 23,
+  "detector": "long_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1881",
+  "line": 29,
+  "detector": "long_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/kmuto/review/pull/1716",
+  "line": 1,
+  "detector": "long_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1853",
+  "line": 95,
+  "detector": "long_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/627",
+  "line": 11,
+  "detector": "long_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/kmuto/review/pull/1736",
+  "line": 3,
+  "detector": "long_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1840",
+  "line": 15,
+  "detector": "long_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1840",
+  "line": 10,
+  "detector": "long_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1909",
+  "line": 61,
+  "detector": "long_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1872",
+  "line": 38,
+  "detector": "long_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7146",
+  "line": 16,
+  "detector": "long_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1840",
+  "line": 11,
+  "detector": "long_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1875",
+  "line": 15,
+  "detector": "long_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1890",
+  "line": 66,
+  "detector": "long_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1851",
+  "line": 72,
+  "detector": "long_bullet",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1911",
+  "line": 33,
+  "detector": "ref_in_list",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1909",
+  "line": 61,
+  "detector": "ref_in_list",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1916",
+  "line": 10,
+  "detector": "ref_in_list",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1916",
+  "line": 16,
+  "detector": "ref_in_list",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7188",
+  "line": 67,
+  "detector": "ref_in_list",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/315",
+  "line": 47,
+  "detector": "ref_in_list",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/267",
+  "line": 18,
+  "detector": "ref_in_list",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1911",
+  "line": 51,
+  "detector": "ref_in_list",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1863",
+  "line": 68,
+  "detector": "ref_in_list",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7162",
+  "line": 15,
+  "detector": "ref_in_list",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7154",
+  "line": 16,
+  "detector": "ref_in_list",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/267",
+  "line": 20,
+  "detector": "ref_in_list",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7147",
+  "line": 26,
+  "detector": "ref_in_list",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7144",
+  "line": 19,
+  "detector": "ref_in_list",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7154",
+  "line": 15,
+  "detector": "ref_in_list",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/kufu/smarthr-ui/pull/2729",
+  "line": 15,
+  "detector": "ref_in_list",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/zenn-dev/zenn-editor/pull/699",
+  "line": 16,
+  "detector": "ref_in_list",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/237",
+  "line": 5,
+  "detector": "ref_in_list",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1869",
+  "line": 54,
+  "detector": "ref_in_list",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/kufu/smarthr-ui/pull/7361",
+  "line": 19,
+  "detector": "ref_in_list",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/246",
+  "line": 5,
+  "detector": "long_keigo_prose",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/sakura-editor/sakura/pull/2721",
+  "line": 32,
+  "detector": "long_keigo_prose",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/246",
+  "line": 3,
+  "detector": "long_keigo_prose",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/sakura-editor/sakura/pull/1858",
+  "line": 18,
+  "detector": "long_keigo_prose",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/thinkingreed-inc/F-RevoCRM/pull/1863",
+  "line": 6,
+  "detector": "long_keigo_prose",
+  "label": "FP",
+  "category": "request_counted"
+ },
+ {
+  "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1834",
+  "line": 3,
+  "detector": "long_keigo_prose",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/kmuto/review/pull/1974",
+  "line": 3,
+  "detector": "long_keigo_prose",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/70",
+  "line": 1,
+  "detector": "long_keigo_prose",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/257",
+  "line": 5,
+  "detector": "long_keigo_prose",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/VOICEVOX/voicevox/pull/3095",
+  "line": 12,
+  "detector": "long_keigo_prose",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7117",
+  "line": 3,
+  "detector": "long_keigo_prose",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/VOICEVOX/voicevox/pull/3165",
+  "line": 8,
+  "detector": "long_keigo_prose",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7114",
+  "line": 30,
+  "detector": "long_keigo_prose",
+  "label": "FP",
+  "category": "parse_merge"
+ },
+ {
+  "url": "https://github.com/vivliostyle/vfm/pull/269",
+  "line": 1,
+  "detector": "long_keigo_prose",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/sakura-editor/sakura/pull/2710",
+  "line": 4,
+  "detector": "long_keigo_prose",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/VOICEVOX/voicevox/pull/875",
+  "line": 6,
+  "detector": "long_keigo_prose",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7105",
+  "line": 19,
+  "detector": "long_keigo_prose",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/VOICEVOX/voicevox_engine/pull/1828",
+  "line": 17,
+  "detector": "long_keigo_prose",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7117",
+  "line": 59,
+  "detector": "long_keigo_prose",
+  "label": "TP",
+  "category": null
+ },
+ {
+  "url": "https://github.com/EC-CUBE/ec-cube/pull/7114",
+  "line": 86,
+  "detector": "long_keigo_prose",
+  "label": "TP",
+  "category": null
+ }
+]
