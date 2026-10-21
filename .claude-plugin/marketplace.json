@@ -1,7 +1,8 @@
 {
-  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "natural-pr-issue-japanese",
-  "description": "日本語の GitHub PR・Issue の本文を読みやすく書くためのスキル",
+  "metadata": {
+    "description": "日本語の GitHub PR・Issue の本文を読みやすく書くためのスキル"
+  },
   "owner": {
     "name": "tokiya-takai",
     "url": "https://github.com/tokiya-takai"

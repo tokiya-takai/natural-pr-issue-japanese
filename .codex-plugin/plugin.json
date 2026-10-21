@@ -1,0 +1,14 @@
+{
+  "name": "natural-pr-issue-japanese",
+  "version": "0.1.0",
+  "description": "日本語の GitHub PR・Issue の本文を、参照先任せにせず本文だけで読めて、読む気になる量に書くためのスキル",
+  "author": {
+    "name": "tokiya-takai",
+    "url": "https://github.com/tokiya-takai"
+  },
+  "homepage": "https://github.com/tokiya-takai/natural-pr-issue-japanese",
+  "repository": "https://github.com/tokiya-takai/natural-pr-issue-japanese",
+  "license": "MIT",
+  "keywords": ["japanese", "pull-request", "issue", "writing", "github"],
+  "skills": "./skills/"
+}

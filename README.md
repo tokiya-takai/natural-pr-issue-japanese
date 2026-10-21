@@ -1,6 +1,6 @@
 # natural-pr-issue-japanese
 
-日本語の GitHub PR・Issue の本文を、読み手が本文だけで理解・判断でき、読む気になる量に書くための Claude Code スキルです。
+日本語の GitHub PR・Issue の本文を、読み手が本文だけで理解・判断でき、読む気になる量に書くための Claude Code・Codex スキルです。
 
 AI に PR の本文を書かせると、次のような文面になりがちです。
 
@@ -9,7 +9,7 @@ AI に PR の本文を書かせると、次のような文面になりがちで�
 - 敬体の長い一文に、依頼と比較と代わりの案を詰め込む
 - 概要に問題を並べるだけで、どう直したかは詳細を読むまで分からない
 
-このスキルは、こうした文面を避けるための規則と点検項目を Claude に渡します。
+このスキルは、こうした文面を避けるための規則と点検項目を AI エージェントに渡します。
 
 ## 規則
 
@@ -62,23 +62,40 @@ PR・Issue の本文そのものを対象にした実験はほとんど無く、
 
 ## インストール
 
-Claude Code で次を実行します。
+### Claude Code
 
 ```
 /plugin marketplace add tokiya-takai/natural-pr-issue-japanese
 /plugin install natural-pr-issue-japanese@natural-pr-issue-japanese
 ```
 
+### Codex
+
+```
+codex plugin marketplace add tokiya-takai/natural-pr-issue-japanese
+codex plugin add natural-pr-issue-japanese@natural-pr-issue-japanese
+```
+
+インストール後、新しいセッションでスキルを使えます。
+
 ## 使い方
 
-PR や Issue の本文を書くとき（`gh pr create` などの前）に、自動で使われます。明示的に呼ぶときは次のとおりです。
+PR や Issue の本文を書くとき（`gh pr create` などの前）に、エージェントがこのスキルを選んで使います。明示的に呼ぶときは次のとおりです。
+
+### Claude Code
 
 ```
 /natural-pr-issue-japanese:natural-pr-issue-japanese <PR の URL> の本文を書き直して
 ```
 
+### Codex
+
+```
+$natural-pr-issue-japanese:natural-pr-issue-japanese <PR の URL> の本文を書き直して
+```
+
 - [natural-japanese](https://github.com/coji/natural-japanese) が入っていれば、仕上げにそれも通す（任意）
-- プロジェクト固有の約束（PR テンプレートの章、CI が検査する書式など）は、そのリポジトリの CLAUDE.md に書けばそちらに従う
+- プロジェクト固有の約束（PR テンプレートの章、CI が検査する書式など）は、使うエージェント向けの指示ファイルに書けばそちらに従う（Claude Code は `CLAUDE.md`、Codex は `AGENTS.md`）
 
 ## ライセンス
 
