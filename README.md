@@ -36,16 +36,19 @@ gh pr view 12 --json body -q .body | python3 skills/natural-pr-issue-japanese/sc
 | 検出器 | 規則 | 見ているもの |
 |---|---|---|
 | `summary_problem_only` | 1 | 概要の番号付きの項目に、対応の方向が書かれていない |
-| `bare_id` | 2 | ID や `#N` の中身の説明が、本文のどこにも無い |
 | `ref_in_list` | 3 | 箇条書きの途中に `#N` や PR・Issue の URL がある |
 | `preview_heading_mismatch` | 4 | 概要の項目と、詳細の見出しの文言が違う |
-| `undefined_term` | 4 | 略語の初出に説明が無い |
 | `long_bullet` | 5 | 3 文以上ある箇条 |
 | `request_late` | 6 | 節の頭から 3 つ目以降に、頼みごとがある |
-| `keigo_bullet`, `long_keigo_prose` | 7 | 敬体の箇条、敬体の文が 3 文以上ある段落 |
+| `keigo_bullet` | 7 | 敬体の箇条 |
+| `long_keigo_prose` | 7 | 内容を敬体で 3 文以上書いた段落 |
 | `details_syntax` | 8 | `<details>` の中の空行が足りない |
+| `bare_id`（`--all`） | 2 | ID や `#N` の中身の説明が、本文のどこにも無い |
+| `undefined_term`（`--all`） | 4 | 略語の初出に説明が無い |
 
-ほかに、`<details>` で畳んだ部分を除いた「見えている字数」も出します。検出は疑いの提示で、直すかどうかは文脈で判断します。閾値はコーパスで校正する前の初期値です。
+`bare_id` と `undefined_term` は誤検知が多いので、`--all` を付けたときだけ出します。
+
+ほかに、`<details>` で畳んだ部分を除いた「見えている字数」も出します。検出は疑いの提示で、直すかどうかは文脈で判断します。
 
 回帰テストは `python3 -m unittest discover tests` で実行できます。
 

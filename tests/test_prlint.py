@@ -8,8 +8,8 @@ sys.path.insert(0, str(pathlib.Path(__file__).resolve().parents[1] / "skills/nat
 import prlint  # noqa: E402
 
 
-def detectors(text: str) -> set[str]:
-    return {f.detector for f in prlint.lint(text)[0]}
+def detectors(text: str, all_detectors: bool = True) -> set[str]:
+    return {f.detector for f in prlint.lint(text, all_detectors)[0]}
 
 
 # SKILL.md の「例」の書き直す前と後
@@ -84,11 +84,16 @@ class PrlintTest(unittest.TestCase):
         self.assertNotIn("bare_id", detectors("REQ-012（サンプルデータの投入は開発環境だけ）を変える。"))
         self.assertNotIn("bare_id", detectors("REQ-012 は「開発環境だけで投入する」と定めている。"))
         self.assertNotIn("bare_id", detectors("配布版での登録を禁じていた FR-018 を変えた。"))
+        self.assertNotIn("bare_id", detectors("#120 で入れた並べ替えの処理を、一覧画面にも使った。"))
+        self.assertNotIn("bare_id", detectors("#120 を受けて直した。\n\n- #120（並べ替えの不具合）\n"))
+        self.assertNotIn("bare_id", detectors("署名には P-256 を使う。"))
         self.assertNotIn("bare_id", detectors("D-008 と D-017 は未実装。\n\n- D-008: 値を再生に反映する\n- D-017: 信号に反映する\n"))
 
     def test_ref_at_end_of_item_is_fine(self):
         self.assertNotIn("ref_in_list", detectors("- 取り込んだ PR: #6、#9、#10\n"))
         self.assertIn("ref_in_list", detectors("- #9 の方針と逆にした\n"))
+        self.assertNotIn("ref_in_list", detectors("- 並べ替えが崩れる不具合を直した（#120 で報告）\n"))
+        self.assertNotIn("ref_in_list", detectors("- #120: 並べ替えが崩れる不具合を直した\n"))
 
     def test_checkbox_lines_are_left_alone(self):
         self.assertEqual(set(), detectors("- [x] OK: FR-018 を満たす。確認しました。開発環境で見ました。\n"))
@@ -101,6 +106,8 @@ class PrlintTest(unittest.TestCase):
         text = "### 依頼\n\n背景はこうだ。経緯はこうだ。\n\n- a\n- b\n\nご判断ください。\n"
         self.assertIn("request_late", detectors(text))
         self.assertNotIn("request_late", detectors("### 依頼\n\nご判断ください。\n\n- a\n- b\n- c\n"))
+        closing = "### 変更\n\nA を直した。B も直した。C も直した。\n\nレビューよろしくお願いします。\n"
+        self.assertNotIn("request_late", detectors(closing))
 
     def test_request_after_summary_is_fine(self):
         text = "## 概要\n\n2 件を対応しました。\n\n1. A が出ない\n   - B にした\n2. C が残る\n   - D を直した\n\nどちらを採るかご判断ください。\n"
@@ -108,10 +115,18 @@ class PrlintTest(unittest.TestCase):
 
     def test_long_keigo_prose(self):
         self.assertIn("long_keigo_prose", detectors("修正しました。確認しました。問題ありません。\n"))
+        self.assertNotIn("long_keigo_prose", detectors("修正しました。確認しました。ご確認ください。\n"))
+
+    def test_bot_summary_is_skipped(self):
+        bot = "<!-- This is an auto-generated comment: release notes by coderabbit.ai -->\n- 修正しました。\n<!-- end of auto-generated comment: release notes by coderabbit.ai -->\n"
+        self.assertEqual(set(), detectors(bot))
 
     def test_undefined_term(self):
         self.assertIn("undefined_term", detectors("IDD で進めた。\n"))
         self.assertNotIn("undefined_term", detectors("IDD（実装しながら仕様を固める進め方）で進めた。\n"))
+
+    def test_low_precision_detectors_are_opt_in(self):
+        self.assertEqual(set(), detectors("IDD で進めた。REQ-012 を変える。\n", all_detectors=False))
 
     def test_visible_chars_exclude_details(self):
         m = prlint.lint("見える\n\n<details><summary>畳む</summary>\n\n隠れている文\n\n</details>\n")[1]
