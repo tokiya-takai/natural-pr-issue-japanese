@@ -127,9 +127,10 @@ GitHub は、箇条書きの項目の中にある `#41` や PR・Issue の URL �
 
 1. 本文に出す ID・番号・ファイルを書き出し、それぞれの中身を元資料から 1〜2 文で抜き出す（仕様は該当行、PR・Issue は `gh pr view` / `gh issue view`）
 2. 上の書き方で本文を書き、一時ファイルに保存する
-3. 下の点検を通す。呼び名と初出は、見出しと各段落・箇条の先頭だけを上から読んで確かめる
-4. [natural-japanese](https://github.com/coji/natural-japanese) が入っていれば、クイックモードで通す（`scripts/outline.py` で見出しと先頭文も抜き出せる）。CI が検査する章と、人が書いた章は直さない。敬体と常体の混在は、書き方 7 の使い分けなら直さない
-5. `--body-file` で作成・更新する（`gh pr create` / `gh pr edit` / `gh issue create`）
+3. 検査スクリプトを通す: `python3 <このスキルのディレクトリ>/scripts/prlint.py <本文のファイル>`。検出は疑いの提示なので、1 件ずつ直すか残すかを決める
+4. 下の点検を通す。呼び名と初出は、見出しと各段落・箇条の先頭だけを上から読んで確かめる
+5. [natural-japanese](https://github.com/coji/natural-japanese) が入っていれば、クイックモードで通す（`scripts/outline.py` で見出しと先頭文も抜き出せる）。CI が検査する章と、人が書いた章は直さない。敬体と常体の混在は、書き方 7 の使い分けなら直さない
+6. `--body-file` で作成・更新する（`gh pr create` / `gh pr edit` / `gh issue create`）
 
 ## 点検
 
