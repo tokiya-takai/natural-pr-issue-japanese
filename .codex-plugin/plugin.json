@@ -9,6 +9,12 @@
   "homepage": "https://github.com/tokiya-takai/natural-pr-issue-japanese",
   "repository": "https://github.com/tokiya-takai/natural-pr-issue-japanese",
   "license": "MIT",
-  "keywords": ["japanese", "pull-request", "issue", "writing", "github"],
+  "keywords": [
+    "japanese",
+    "pull-request",
+    "issue",
+    "writing",
+    "github"
+  ],
   "skills": "./skills/"
 }
