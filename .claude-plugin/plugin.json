@@ -1,6 +1,6 @@
 {
   "name": "natural-pr-issue-japanese",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "日本語の GitHub PR・Issue の本文を、参照先任せにせず本文だけで読めて、読む気になる量に書くためのスキル",
   "author": {
     "name": "tokiya-takai",

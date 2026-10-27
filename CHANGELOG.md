@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/tokiya-takai/natural-pr-issue-japanese/compare/v0.1.0...v0.1.1) (2026-10-27)
+
+
+### Bug Fixes
+
+* 規則 3 の根拠と規則 7 の目的を、調査と作者の意図に合わせて書き直す ([6a3e126](https://github.com/tokiya-takai/natural-pr-issue-japanese/commit/6a3e126fdfbc090c8a143fb009e73b5fdbef6b57))
+
 ## 0.1.0 (2026-10-21)
 
 
