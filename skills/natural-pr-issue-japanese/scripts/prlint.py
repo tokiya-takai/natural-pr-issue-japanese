@@ -288,7 +288,7 @@ def d_keigo_bullet(blocks: list[Block]) -> list[Finding]:
 
 def d_long_keigo_prose(blocks: list[Block]) -> list[Finding]:
     return [Finding(b.line, 7, "long_keigo_prose",
-                    f"敬体の文が {k} 文ある段落。内容は常体の箇条にし、敬体は問いかけ・依頼と導入の一文に限る", excerpt(b.text))
+                    f"問いかけ・依頼を除いて敬体の文が {k} 文ある段落。内容は箇条書きか表に出し、常体で書く", excerpt(b.text))
             for b in prose(blocks) if b.kind == "para" and (k := sum(is_keigo(s) and not is_request(s) and not s.rstrip("。 ").endswith("か")
                                                                      for s in sentences(b.text))) > MAX_KEIGO_SENTENCES]
 

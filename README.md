@@ -19,7 +19,7 @@ AI に PR の本文を書かせると、次のような文面になりがちで�
 - 同じものは同じ言葉で呼び、用語は初出で説明する
 - 一つの箇条に話題は一つ、2 文までを目安に
 - 頼みごとを先に書く
-- 箇条書きは常体にし、敬体は問いかけと導入の一文だけにする
+- 地の文は敬体、見出し・箇条書き・表は常体で書き、内容が続くときは箇条書きか表に出す
 - 判断に使わないことは書かないか、`<details>` で畳む
 
 規則ごとの例と点検項目は [SKILL.md](skills/natural-pr-issue-japanese/SKILL.md) にあります。
@@ -41,7 +41,7 @@ gh pr view 12 --json body -q .body | python3 skills/natural-pr-issue-japanese/sc
 | `long_bullet` | 5 | 3 文以上ある箇条 | 95% |
 | `request_late` | 6 | 節の頭から 3 つ目以降に、頼みごとがある | 80%（5 件） |
 | `keigo_bullet` | 7 | 敬体の箇条 | 100% |
-| `long_keigo_prose` | 7 | 内容を敬体で 3 文以上書いた段落 | 95% |
+| `long_keigo_prose` | 7 | 問いかけ・依頼を除き、敬体の文が 3 文以上ある段落 | 95% |
 | `details_syntax` | 8 | `<details>` の中の空行が足りない | 未測定 |
 | `bare_id`（`--all`） | 2 | ID や `#N` の中身の説明が、本文のどこにも無い | 30% |
 | `undefined_term`（`--all`） | 4 | 略語の初出に説明が無い | 0%（修正前） |
