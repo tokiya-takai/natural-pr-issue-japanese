@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2](https://github.com/tokiya-takai/natural-pr-issue-japanese/compare/v0.1.1...v0.1.2) (2026-10-28)
+
+
+### Bug Fixes
+
+* 規則 7 を「地の文は敬体、見出し・箇条書き・表は常体」に改める ([f6c2b97](https://github.com/tokiya-takai/natural-pr-issue-japanese/commit/f6c2b971059b3129a5452c383742da0d199874f7))
+
 ## [0.1.1](https://github.com/tokiya-takai/natural-pr-issue-japanese/compare/v0.1.0...v0.1.1) (2026-10-27)
 
 
